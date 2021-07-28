@@ -1,0 +1,16 @@
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/C-Sharp-Basics/bin/Debug/net5.0/C-Sharp-Basics
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/C-Sharp-Basics/bin/Debug/net5.0/C-Sharp-Basics.deps.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/C-Sharp-Basics/bin/Debug/net5.0/C-Sharp-Basics.runtimeconfig.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/C-Sharp-Basics/bin/Debug/net5.0/C-Sharp-Basics.runtimeconfig.dev.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/C-Sharp-Basics/bin/Debug/net5.0/C-Sharp-Basics.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/C-Sharp-Basics/bin/Debug/net5.0/ref/C-Sharp-Basics.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/C-Sharp-Basics/bin/Debug/net5.0/C-Sharp-Basics.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/C-Sharp-Basics/obj/Debug/net5.0/C-Sharp-Basics.csproj.AssemblyReference.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/C-Sharp-Basics/obj/Debug/net5.0/C-Sharp-Basics.GeneratedMSBuildEditorConfig.editorconfig
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/C-Sharp-Basics/obj/Debug/net5.0/C-Sharp-Basics.AssemblyInfoInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/C-Sharp-Basics/obj/Debug/net5.0/C-Sharp-Basics.AssemblyInfo.cs
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/C-Sharp-Basics/obj/Debug/net5.0/C-Sharp-Basics.csproj.CoreCompileInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/C-Sharp-Basics/obj/Debug/net5.0/C-Sharp-Basics.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/C-Sharp-Basics/obj/Debug/net5.0/ref/C-Sharp-Basics.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/C-Sharp-Basics/obj/Debug/net5.0/C-Sharp-Basics.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/C-Sharp-Basics/obj/Debug/net5.0/C-Sharp-Basics.genruntimeconfig.cache
