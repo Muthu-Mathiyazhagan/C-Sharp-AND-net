@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace Arrays
 {
     class Program
@@ -10,8 +9,8 @@ namespace Arrays
             var names = new string[3]{"Muthu","Mathiyazhagan","Yaadhumanavan"};
             for (int i = 0; i < numbers.Length; i++)
             {
-                System.Console.WriteLine(names[i]);
-                System.Console.WriteLine(numbers[i]);
+                Console.WriteLine(names[i]);
+                Console.WriteLine(numbers[i]);
             }
             // numbers[2] = 9;
             // System.Console.WriteLine(numbers[1]);
