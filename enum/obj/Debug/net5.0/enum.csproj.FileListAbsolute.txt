@@ -1,0 +1,5 @@
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/enum/obj/Debug/net5.0/enum.csproj.AssemblyReference.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/enum/obj/Debug/net5.0/enum.GeneratedMSBuildEditorConfig.editorconfig
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/enum/obj/Debug/net5.0/enum.AssemblyInfoInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/enum/obj/Debug/net5.0/enum.AssemblyInfo.cs
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/enum/obj/Debug/net5.0/enum.csproj.CoreCompileInputs.cache
