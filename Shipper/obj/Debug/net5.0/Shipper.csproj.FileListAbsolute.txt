@@ -1,0 +1,16 @@
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Shipper/bin/Debug/net5.0/Shipper
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Shipper/bin/Debug/net5.0/Shipper.deps.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Shipper/bin/Debug/net5.0/Shipper.runtimeconfig.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Shipper/bin/Debug/net5.0/Shipper.runtimeconfig.dev.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Shipper/bin/Debug/net5.0/Shipper.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Shipper/bin/Debug/net5.0/ref/Shipper.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Shipper/bin/Debug/net5.0/Shipper.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Shipper/obj/Debug/net5.0/Shipper.csproj.AssemblyReference.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Shipper/obj/Debug/net5.0/Shipper.GeneratedMSBuildEditorConfig.editorconfig
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Shipper/obj/Debug/net5.0/Shipper.AssemblyInfoInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Shipper/obj/Debug/net5.0/Shipper.AssemblyInfo.cs
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Shipper/obj/Debug/net5.0/Shipper.csproj.CoreCompileInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Shipper/obj/Debug/net5.0/Shipper.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Shipper/obj/Debug/net5.0/ref/Shipper.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Shipper/obj/Debug/net5.0/Shipper.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Shipper/obj/Debug/net5.0/Shipper.genruntimeconfig.cache
