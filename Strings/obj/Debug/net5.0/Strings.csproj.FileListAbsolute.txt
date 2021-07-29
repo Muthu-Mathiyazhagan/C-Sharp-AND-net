@@ -1,0 +1,16 @@
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Strings/bin/Debug/net5.0/Strings
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Strings/bin/Debug/net5.0/Strings.deps.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Strings/bin/Debug/net5.0/Strings.runtimeconfig.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Strings/bin/Debug/net5.0/Strings.runtimeconfig.dev.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Strings/bin/Debug/net5.0/Strings.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Strings/bin/Debug/net5.0/ref/Strings.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Strings/bin/Debug/net5.0/Strings.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Strings/obj/Debug/net5.0/Strings.csproj.AssemblyReference.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Strings/obj/Debug/net5.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Strings/obj/Debug/net5.0/Strings.AssemblyInfoInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Strings/obj/Debug/net5.0/Strings.AssemblyInfo.cs
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Strings/obj/Debug/net5.0/Strings.csproj.CoreCompileInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Strings/obj/Debug/net5.0/Strings.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Strings/obj/Debug/net5.0/ref/Strings.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Strings/obj/Debug/net5.0/Strings.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Strings/obj/Debug/net5.0/Strings.genruntimeconfig.cache
