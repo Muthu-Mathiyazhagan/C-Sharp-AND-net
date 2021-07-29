@@ -1,0 +1,16 @@
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StaticModifiers/bin/Debug/net5.0/StaticModifiers
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StaticModifiers/bin/Debug/net5.0/StaticModifiers.deps.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StaticModifiers/bin/Debug/net5.0/StaticModifiers.runtimeconfig.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StaticModifiers/bin/Debug/net5.0/StaticModifiers.runtimeconfig.dev.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StaticModifiers/bin/Debug/net5.0/StaticModifiers.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StaticModifiers/bin/Debug/net5.0/ref/StaticModifiers.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StaticModifiers/bin/Debug/net5.0/StaticModifiers.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StaticModifiers/obj/Debug/net5.0/StaticModifiers.csproj.AssemblyReference.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StaticModifiers/obj/Debug/net5.0/StaticModifiers.GeneratedMSBuildEditorConfig.editorconfig
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StaticModifiers/obj/Debug/net5.0/StaticModifiers.AssemblyInfoInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StaticModifiers/obj/Debug/net5.0/StaticModifiers.AssemblyInfo.cs
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StaticModifiers/obj/Debug/net5.0/StaticModifiers.csproj.CoreCompileInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StaticModifiers/obj/Debug/net5.0/StaticModifiers.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StaticModifiers/obj/Debug/net5.0/ref/StaticModifiers.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StaticModifiers/obj/Debug/net5.0/StaticModifiers.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StaticModifiers/obj/Debug/net5.0/StaticModifiers.genruntimeconfig.cache
