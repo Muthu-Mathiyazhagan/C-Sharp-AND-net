@@ -1,0 +1,16 @@
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/non-primitive/bin/Debug/net5.0/non-primitive
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/non-primitive/bin/Debug/net5.0/non-primitive.deps.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/non-primitive/bin/Debug/net5.0/non-primitive.runtimeconfig.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/non-primitive/bin/Debug/net5.0/non-primitive.runtimeconfig.dev.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/non-primitive/bin/Debug/net5.0/non-primitive.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/non-primitive/bin/Debug/net5.0/ref/non-primitive.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/non-primitive/bin/Debug/net5.0/non-primitive.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/non-primitive/obj/Debug/net5.0/non-primitive.csproj.AssemblyReference.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/non-primitive/obj/Debug/net5.0/non-primitive.GeneratedMSBuildEditorConfig.editorconfig
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/non-primitive/obj/Debug/net5.0/non-primitive.AssemblyInfoInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/non-primitive/obj/Debug/net5.0/non-primitive.AssemblyInfo.cs
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/non-primitive/obj/Debug/net5.0/non-primitive.csproj.CoreCompileInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/non-primitive/obj/Debug/net5.0/non-primitive.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/non-primitive/obj/Debug/net5.0/ref/non-primitive.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/non-primitive/obj/Debug/net5.0/non-primitive.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/non-primitive/obj/Debug/net5.0/non-primitive.genruntimeconfig.cache
