@@ -1,5 +1,3 @@
-using System;
-
 namespace StaticModifiers
 {
     public class addition

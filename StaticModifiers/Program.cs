@@ -11,6 +11,7 @@ namespace StaticModifiers
             // addition.Add(1,4);
             var add = new addition();
             add.Add(5,6);
+            newclass.Square(6);
         }
     }
 }
