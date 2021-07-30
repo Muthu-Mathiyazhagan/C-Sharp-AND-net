@@ -1,0 +1,16 @@
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/ConditionFlow/bin/Debug/net5.0/ConditionFlow
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/ConditionFlow/bin/Debug/net5.0/ConditionFlow.deps.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/ConditionFlow/bin/Debug/net5.0/ConditionFlow.runtimeconfig.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/ConditionFlow/bin/Debug/net5.0/ConditionFlow.runtimeconfig.dev.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/ConditionFlow/bin/Debug/net5.0/ConditionFlow.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/ConditionFlow/bin/Debug/net5.0/ref/ConditionFlow.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/ConditionFlow/bin/Debug/net5.0/ConditionFlow.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/ConditionFlow/obj/Debug/net5.0/ConditionFlow.csproj.AssemblyReference.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/ConditionFlow/obj/Debug/net5.0/ConditionFlow.GeneratedMSBuildEditorConfig.editorconfig
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/ConditionFlow/obj/Debug/net5.0/ConditionFlow.AssemblyInfoInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/ConditionFlow/obj/Debug/net5.0/ConditionFlow.AssemblyInfo.cs
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/ConditionFlow/obj/Debug/net5.0/ConditionFlow.csproj.CoreCompileInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/ConditionFlow/obj/Debug/net5.0/ConditionFlow.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/ConditionFlow/obj/Debug/net5.0/ref/ConditionFlow.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/ConditionFlow/obj/Debug/net5.0/ConditionFlow.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/ConditionFlow/obj/Debug/net5.0/ConditionFlow.genruntimeconfig.cache
