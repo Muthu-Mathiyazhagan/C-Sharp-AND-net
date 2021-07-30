@@ -1,0 +1,16 @@
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/roughNote/obj/Debug/net5.0/roughNote.csproj.AssemblyReference.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/roughNote/obj/Debug/net5.0/roughNote.GeneratedMSBuildEditorConfig.editorconfig
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/roughNote/obj/Debug/net5.0/roughNote.AssemblyInfoInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/roughNote/obj/Debug/net5.0/roughNote.AssemblyInfo.cs
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/roughNote/obj/Debug/net5.0/roughNote.csproj.CoreCompileInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/roughNote/bin/Debug/net5.0/roughNote
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/roughNote/bin/Debug/net5.0/roughNote.deps.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/roughNote/bin/Debug/net5.0/roughNote.runtimeconfig.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/roughNote/bin/Debug/net5.0/roughNote.runtimeconfig.dev.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/roughNote/bin/Debug/net5.0/roughNote.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/roughNote/bin/Debug/net5.0/ref/roughNote.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/roughNote/bin/Debug/net5.0/roughNote.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/roughNote/obj/Debug/net5.0/roughNote.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/roughNote/obj/Debug/net5.0/ref/roughNote.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/roughNote/obj/Debug/net5.0/roughNote.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/roughNote/obj/Debug/net5.0/roughNote.genruntimeconfig.cache
