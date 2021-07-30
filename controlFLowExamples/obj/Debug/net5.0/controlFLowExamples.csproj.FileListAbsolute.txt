@@ -1,0 +1,16 @@
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/controlFLowExamples/bin/Debug/net5.0/controlFLowExamples
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/controlFLowExamples/bin/Debug/net5.0/controlFLowExamples.deps.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/controlFLowExamples/bin/Debug/net5.0/controlFLowExamples.runtimeconfig.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/controlFLowExamples/bin/Debug/net5.0/controlFLowExamples.runtimeconfig.dev.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/controlFLowExamples/bin/Debug/net5.0/controlFLowExamples.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/controlFLowExamples/bin/Debug/net5.0/ref/controlFLowExamples.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/controlFLowExamples/bin/Debug/net5.0/controlFLowExamples.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/controlFLowExamples/obj/Debug/net5.0/controlFLowExamples.csproj.AssemblyReference.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/controlFLowExamples/obj/Debug/net5.0/controlFLowExamples.GeneratedMSBuildEditorConfig.editorconfig
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/controlFLowExamples/obj/Debug/net5.0/controlFLowExamples.AssemblyInfoInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/controlFLowExamples/obj/Debug/net5.0/controlFLowExamples.AssemblyInfo.cs
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/controlFLowExamples/obj/Debug/net5.0/controlFLowExamples.csproj.CoreCompileInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/controlFLowExamples/obj/Debug/net5.0/controlFLowExamples.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/controlFLowExamples/obj/Debug/net5.0/ref/controlFLowExamples.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/controlFLowExamples/obj/Debug/net5.0/controlFLowExamples.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/controlFLowExamples/obj/Debug/net5.0/controlFLowExamples.genruntimeconfig.cache
