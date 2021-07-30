@@ -1,0 +1,16 @@
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/referenceNvalueTypes/obj/Debug/net5.0/referenceNvalueTypes.csproj.AssemblyReference.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/referenceNvalueTypes/obj/Debug/net5.0/referenceNvalueTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/referenceNvalueTypes/obj/Debug/net5.0/referenceNvalueTypes.AssemblyInfoInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/referenceNvalueTypes/obj/Debug/net5.0/referenceNvalueTypes.AssemblyInfo.cs
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/referenceNvalueTypes/obj/Debug/net5.0/referenceNvalueTypes.csproj.CoreCompileInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/referenceNvalueTypes/bin/Debug/net5.0/referenceNvalueTypes
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/referenceNvalueTypes/bin/Debug/net5.0/referenceNvalueTypes.deps.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/referenceNvalueTypes/bin/Debug/net5.0/referenceNvalueTypes.runtimeconfig.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/referenceNvalueTypes/bin/Debug/net5.0/referenceNvalueTypes.runtimeconfig.dev.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/referenceNvalueTypes/bin/Debug/net5.0/referenceNvalueTypes.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/referenceNvalueTypes/bin/Debug/net5.0/ref/referenceNvalueTypes.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/referenceNvalueTypes/bin/Debug/net5.0/referenceNvalueTypes.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/referenceNvalueTypes/obj/Debug/net5.0/referenceNvalueTypes.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/referenceNvalueTypes/obj/Debug/net5.0/ref/referenceNvalueTypes.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/referenceNvalueTypes/obj/Debug/net5.0/referenceNvalueTypes.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/referenceNvalueTypes/obj/Debug/net5.0/referenceNvalueTypes.genruntimeconfig.cache
