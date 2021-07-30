@@ -2,15 +2,16 @@
 
 
 using System;
+using System.IO;
+
 namespace controlFLowExamples
 
 {
     public class Random
     {
         public static void Run (){
-            
-            var num = random.Next(1,10);
-            System.Console.WriteLine(num);
+            var number = new Random.Next(1,10);
+            System.Console.WriteLine(number);
         }
     }
 }
