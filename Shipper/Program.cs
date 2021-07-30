@@ -2,17 +2,17 @@
 
 namespace Shipper
 {
-    enum ShippingMethod{
+    public enum ShippingMethod{
         Local=1,Express=2,Air=4
     }
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Muthu is the best fullstack Developer!");
             System.Console.WriteLine("Air Enum ="+(int)ShippingMethod.Air);
-            var method = 2;
-            System.Console.WriteLine((ShippingMethod)method);
+            var methodID = 2;
+            System.Console.WriteLine((ShippingMethod)methodID);
 
         }
     }
