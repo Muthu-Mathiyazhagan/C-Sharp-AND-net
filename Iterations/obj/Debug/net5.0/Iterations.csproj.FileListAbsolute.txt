@@ -1,0 +1,16 @@
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Iterations/bin/Debug/net5.0/Iterations
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Iterations/bin/Debug/net5.0/Iterations.deps.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Iterations/bin/Debug/net5.0/Iterations.runtimeconfig.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Iterations/bin/Debug/net5.0/Iterations.runtimeconfig.dev.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Iterations/bin/Debug/net5.0/Iterations.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Iterations/bin/Debug/net5.0/ref/Iterations.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Iterations/bin/Debug/net5.0/Iterations.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Iterations/obj/Debug/net5.0/Iterations.csproj.AssemblyReference.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Iterations/obj/Debug/net5.0/Iterations.GeneratedMSBuildEditorConfig.editorconfig
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Iterations/obj/Debug/net5.0/Iterations.AssemblyInfoInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Iterations/obj/Debug/net5.0/Iterations.AssemblyInfo.cs
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Iterations/obj/Debug/net5.0/Iterations.csproj.CoreCompileInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Iterations/obj/Debug/net5.0/Iterations.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Iterations/obj/Debug/net5.0/ref/Iterations.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Iterations/obj/Debug/net5.0/Iterations.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Iterations/obj/Debug/net5.0/Iterations.genruntimeconfig.cache
