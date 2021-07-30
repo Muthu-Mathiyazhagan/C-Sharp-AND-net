@@ -11,6 +11,7 @@ namespace Iterations
             ForEach.Strings("Muthu");
             var numbers = new int[5]{1,2,3,4,5};
             ForEach.Arrays(numbers);
+            WhileLoop.Even();
         }
     }
 }
