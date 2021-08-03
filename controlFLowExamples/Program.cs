@@ -15,5 +15,8 @@ namespace controlFLowExamples
             // randonNumber.Run();
             FindMax.Run();
         }
+        public int model { get; set; }
+
+
     }
 }
