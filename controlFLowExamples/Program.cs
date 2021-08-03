@@ -12,7 +12,7 @@ namespace controlFLowExamples
             // ExampleOne.Run();
             // ExampleTwo.Run();
             // Factorial.Run();
-            Random.Run();
+            randonNumber.Run();
         }
     }
 }
