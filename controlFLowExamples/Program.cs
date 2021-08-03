@@ -12,7 +12,8 @@ namespace controlFLowExamples
             // ExampleOne.Run();
             // ExampleTwo.Run();
             // Factorial.Run();
-            randonNumber.Run();
+            // randonNumber.Run();
+            FindMax.Run();
         }
     }
 }
