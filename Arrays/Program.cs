@@ -10,7 +10,8 @@ namespace Arrays
             // System.Console.WriteLine(numbers[1]);
             // facebookLike.Run();
             // reverseName.Run();
-            SortFive.Run();
+            // SortFive.Run();
+            RemoveDuplicates.Run();
         }
     }
 }
