@@ -11,7 +11,8 @@ namespace Arrays
             // facebookLike.Run();
             // reverseName.Run();
             // SortFive.Run();
-            RemoveDuplicates.Run();
+            // RemoveDuplicates.Run();
+            ValidateTheList.Run();
         }
     }
 }
