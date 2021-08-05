@@ -9,7 +9,8 @@ namespace Arrays
             // numbers[2] = 9;
             // System.Console.WriteLine(numbers[1]);
             // facebookLike.Run();
-            reverseName.Run();
+            // reverseName.Run();
+            SortFive.Run();
         }
     }
 }
