@@ -1,21 +1,29 @@
+using System;
+using System.Collections.Generic;
 namespace Arrays
 {
     public class SortFive
     {
         public static void Run()
         {
-            System.Console.WriteLine("Enter Five Unique Numbers");
-            var numbers = new int[5];
-            for (int i = 0; i < 5; i++)
+            var numbers = new List<int>();
+            while (numbers.Count < 5)
             {
-                numbers[i] = System.Convert.ToInt32(System.Console.ReadLine());
+
+                System.Console.WriteLine("Enter Number of Position #{0}: ", numbers.Count + 1);
+                var number = Convert.ToInt32(Console.ReadLine());
+                if (numbers.Contains(number))
+                {
+                    System.Console.WriteLine("You have previously Entered this Number");
+                    continue;
+                }
+                numbers.Add(number);
 
             }
-            System.Array.Reverse(numbers);
-            // System.Console.WriteLine(ReversedArray);
+            numbers.Sort();
             foreach (var item in numbers)
             {
-                System.Console.Write("{0}  ", item);
+                System.Console.Write(item + " ");
             }
             System.Console.WriteLine("\n");
         }
