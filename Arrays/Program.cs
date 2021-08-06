@@ -5,14 +5,13 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
-            // Basics.Run();
+            Basics.Run();
             // numbers[2] = 9;
             // System.Console.WriteLine(numbers[1]);
             // facebookLike.Run();
             // reverseName.Run();
             // SortFive.Run();
             // RemoveDuplicates.Run();
-            ValidateTheList.Run();
         }
     }
 }
