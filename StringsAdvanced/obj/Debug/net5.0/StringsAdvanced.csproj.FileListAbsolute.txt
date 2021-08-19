@@ -1,0 +1,16 @@
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StringsAdvanced/bin/Debug/net5.0/StringsAdvanced
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StringsAdvanced/bin/Debug/net5.0/StringsAdvanced.deps.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StringsAdvanced/bin/Debug/net5.0/StringsAdvanced.runtimeconfig.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StringsAdvanced/bin/Debug/net5.0/StringsAdvanced.runtimeconfig.dev.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StringsAdvanced/bin/Debug/net5.0/StringsAdvanced.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StringsAdvanced/bin/Debug/net5.0/ref/StringsAdvanced.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StringsAdvanced/bin/Debug/net5.0/StringsAdvanced.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StringsAdvanced/obj/Debug/net5.0/StringsAdvanced.csproj.AssemblyReference.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StringsAdvanced/obj/Debug/net5.0/StringsAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StringsAdvanced/obj/Debug/net5.0/StringsAdvanced.AssemblyInfoInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StringsAdvanced/obj/Debug/net5.0/StringsAdvanced.AssemblyInfo.cs
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StringsAdvanced/obj/Debug/net5.0/StringsAdvanced.csproj.CoreCompileInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StringsAdvanced/obj/Debug/net5.0/StringsAdvanced.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StringsAdvanced/obj/Debug/net5.0/ref/StringsAdvanced.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StringsAdvanced/obj/Debug/net5.0/StringsAdvanced.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/StringsAdvanced/obj/Debug/net5.0/StringsAdvanced.genruntimeconfig.cache
