@@ -6,7 +6,13 @@ namespace Dates
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var dob = new DateTime(1993, 1, 1);
+            System.Console.WriteLine(dob.ToString("ddd"));
+            System.Console.WriteLine(dob.ToString("dddd"));
+
+
+            TimeSpanExample.Run();
+
         }
     }
 }
