@@ -25,6 +25,42 @@ namespace StringsAdvanced
             var s6 = Convert.ToInt32(s5);
             System.Console.WriteLine("Converted to int: " + s6);
 
+            // Full name to FirstName and lastName
+            // Apporach One
+            var fullName = "Muthu Mathiyazhagan";
+            var index = fullName.IndexOf(' ');
+            var firstName = fullName.Substring(0, index);
+            var lastName = fullName.Substring(index);
+            System.Console.WriteLine("First name: " + firstName);
+            System.Console.WriteLine("Last name: " + lastName);
+
+            // Approch two
+            var names = fullName.Split(' ');
+            System.Console.WriteLine("First Name : {0}\nLast Name: {1}", names[0], names[1]);
+
+            // Trim 
+            var name = "Muthu ";
+            System.Console.WriteLine("Trimed name is '{0}'", name.Trim());
+
+            var str = "25";
+            var age = Convert.ToSByte(str);
+            System.Console.WriteLine(age);
+
+            float price = 29.95F;
+            System.Console.WriteLine("Effects Of 'c' :" + price.ToString("c"));
+            System.Console.WriteLine("Effects of 'c0'" + price.ToString("c0"));
+            // Null OR Empty OR Whitespace
+            if (String.IsNullOrWhiteSpace(""))
+            {
+                System.Console.WriteLine("Invalid");
+            }
+
+            // String Replace
+            System.Console.WriteLine(fullName.Replace("Mathiyazhagan", "Maravan"));
+
+
+
+
         }
     }
 }
