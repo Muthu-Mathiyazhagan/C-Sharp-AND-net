@@ -1,0 +1,16 @@
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Summarize/obj/Debug/net5.0/Summarize.csproj.AssemblyReference.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Summarize/obj/Debug/net5.0/Summarize.GeneratedMSBuildEditorConfig.editorconfig
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Summarize/obj/Debug/net5.0/Summarize.AssemblyInfoInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Summarize/obj/Debug/net5.0/Summarize.AssemblyInfo.cs
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Summarize/obj/Debug/net5.0/Summarize.csproj.CoreCompileInputs.cache
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Summarize/bin/Debug/net5.0/Summarize
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Summarize/bin/Debug/net5.0/Summarize.deps.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Summarize/bin/Debug/net5.0/Summarize.runtimeconfig.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Summarize/bin/Debug/net5.0/Summarize.runtimeconfig.dev.json
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Summarize/bin/Debug/net5.0/Summarize.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Summarize/bin/Debug/net5.0/ref/Summarize.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Summarize/bin/Debug/net5.0/Summarize.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Summarize/obj/Debug/net5.0/Summarize.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Summarize/obj/Debug/net5.0/ref/Summarize.dll
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Summarize/obj/Debug/net5.0/Summarize.pdb
+/home/cepl/Projects/c#Projects/C-Sharp-AND-net/Summarize/obj/Debug/net5.0/Summarize.genruntimeconfig.cache
